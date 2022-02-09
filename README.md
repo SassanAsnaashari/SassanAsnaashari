@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SassanAsnaashari
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java ee, react
+- 🌱 I’m currently learning java spring boot, react
 - 📫 How to reach me via github
 
 <!---
